@@ -1,3 +1,6 @@
+
+
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -11,3 +14,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.Backperzonalizado {
+  
+  background: rgb(212,126,204);
+  background: linear-gradient(42deg, rgba(212,126,204,1) 0%, #333333 31%, #333333 71%, #333333 100%);
+}
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
